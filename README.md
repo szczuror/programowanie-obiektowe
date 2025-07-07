@@ -1,5 +1,5 @@
 # Laboratorium 1: Translacja i biblioteki C++ #
-W ramach pierwszych zajęć zaprojektowano strukturę projektu C++ z wykorzystaniem Makefile i różnych typów bibliotek. Implementacja obejmowała:
+## W ramach pierwszych zajęć zaprojektowano strukturę projektu C++ z wykorzystaniem Makefile i różnych typów bibliotek. Implementacja obejmowała: ##
 
   -Dynamiczną bibliotekę współdzieloną libhello.so zawierającą funkcję hello::print z liczonymi wywołaniami.
 
@@ -12,7 +12,7 @@ W ramach pierwszych zajęć zaprojektowano strukturę projektu C++ z wykorzystan
 
 # Laboratorium 2: Zarządzanie pamięcią i struktury danych #
 
-Celem było stworzenie własnej uproszczonej wersji std::vector<char>:
+## Celem było stworzenie własnej uproszczonej wersji std::vector<char>: ##
 
   -Implementacja struktury MiniVector z ręcznym zarządzaniem dynamiczną pamięcią.
 
