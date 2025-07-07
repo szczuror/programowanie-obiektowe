@@ -1,0 +1,3 @@
+/home/igor/Code/programowanie-obiektowe/lab5/build/CMakeFiles/lab5.dir
+/home/igor/Code/programowanie-obiektowe/lab5/build/CMakeFiles/edit_cache.dir
+/home/igor/Code/programowanie-obiektowe/lab5/build/CMakeFiles/rebuild_cache.dir
